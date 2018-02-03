@@ -1,0 +1,420 @@
+[
+    { // MLF
+        "name": "MLF",
+        "edition": "Dark City"
+    },
+    { // Streets of New York
+        "name": "Streets of New York",
+        "edition": "Dark City",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Strength",
+				"amount":  1
+			}
+		]
+    },
+    { // Marauders
+        "name": "Marauders",
+        "edition": "Dark City"
+    },
+    { // Enemies of Asgard
+        "name": "Enemies of Asgard",
+        "edition": "Core",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Ranged",
+				"amount":  1
+			}
+		]
+    },
+    { // Sinister Six
+        "name": "Sinister Six",
+        "edition": "Paint the Town Red",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Instinct",
+				"amount":  1
+			}
+		]
+    },
+    { // Skrulls
+        "name": "Skrulls",
+        "edition": "Dark City"
+    },
+    { // Four Horsemen
+        "name": "Four Horsemen",
+        "edition": "Dark City",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Instinct",
+				"amount":  1
+			}
+		]
+    },
+    { // Masters of Evil
+        "name": "Masters of Evil",
+        "edition": "Dark City",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "Avengers",
+				"amount":  1
+			},
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Instinct",
+				"amount":  1
+			}
+		]
+    },
+    { // Underworld
+        "name": "Underworld",
+        "edition": "Dark City",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "Marvel Knights",
+				"amount":  1
+			}
+		]
+    },
+    { // Emissaries of Evil
+        "name": "Emissaries of Evil",
+        "edition": "Dark City"
+    },
+    { // Hydra
+        "name": "Hydra",
+        "edition": "Core"
+    },
+    { // Brotherhood
+        "name": "Brotherhood",
+        "edition": "Core",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "X-Men",
+				"amount":  1
+			}
+		]
+    },
+    { // Spider-Foes
+        "name": "Spider-Foes",
+        "edition": "Paint the Town Red",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Covert",
+				"amount":  1
+			}
+		]
+    },
+    { // Radiation
+        "name": "Radiation",
+        "edition": "Core",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Strength",
+				"amount":  1
+			}
+		]
+    },
+    { // Maximum Carnage
+        "name": "Maximum Carnage",
+        "edition": "Paint the Town Red"
+    },
+    { // Infinity Gems
+        "name": "Infinity Gems",
+        "edition": "Guardians of the Galaxy",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "Guardians of the Galaxy",
+				"amount":  1
+			}
+		]
+    },
+    { // Kree Force
+        "name": "Kree Force",
+        "edition": "Guardians of the Galaxy",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "Guardians of the Galaxy",
+				"amount":  1
+			}
+		]
+    },
+    { // S.H.I.E.L.D. Elite
+        "name": "S.H.I.E.L.D. Elite",
+        "edition": "Civil War"
+    },
+    { // Superhuman Registration Act
+        "name": "Superhuman Registration Act",
+        "edition": "Civil War",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Strength",
+				"amount":  1
+			}
+		]
+    },
+    { // Registration Enforcers
+        "name": "Registration Enforcers",
+        "edition": "Civil War",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Instinct",
+				"amount":  1
+			}
+		]
+    },
+    { // Heroes for Hire
+        "name": "Heroes for Hire",
+        "edition": "Civil War"
+    },
+    { // CSA Special Marshals
+        "name": "CSA Special Marshals",
+        "edition": "Civil War",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Covert",
+				"amount":  1
+			}
+		]
+    },
+    { // Thunderbolts
+        "name": "Thunderbolts",
+        "edition": "Civil War",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Tech",
+				"amount":  1
+			}
+		]
+    },
+    { // Great Lake Avengers
+        "name": "Great Lakes Avengers",
+        "edition": "Civil War",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Covert",
+				"amount":  1
+			},
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Strength",
+				"amount":  1
+			}
+		]
+    },
+    { // Evil Deadpool Corpse
+        "name": "Evil Deadpool Corpse",
+        "edition": "Deadpool"
+    },
+    { // Deadpool's Friends
+        "name": "Deadpool's Friends",
+        "edition": "Deadpool"
+    },
+    { // Zola's Creations
+        "name": "Zola's Creations",
+        "edition": "Captain America, 75th Anniversary"
+    },
+    { // Masters of Evil (WWII)
+        "name": "Masters of Evil (WWII)",
+        "edition": "Captain America, 75th Anniversary"
+    },
+    { // The Deadlands
+        "name": "The Deadlands",
+        "edition": "Secret Wars Volume 1",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "Avengers",
+				"amount":  1
+			},
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Covert",
+				"amount":  1
+			},
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Strength",
+				"amount":  1
+			}
+		]
+    },
+    { // Domain of Apocalypse
+        "name": "Domain of Apocalypse",
+        "edition": "Secret Wars Volume 1",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "X-Men",
+				"amount":  1
+			}
+		]
+    },
+    { // Limbo
+        "name": "Limbo",
+        "edition": "Secret Wars Volume 1"
+    },
+    { // Manhattan (Earth-1610)
+        "name": "Manhattan (Earth-1610)",
+        "edition": "Secret Wars Volume 1"
+    },
+    { // Sentinel Territories
+        "name": "Sentinel Territories",
+        "edition": "Secret Wars Volume 1"
+    },
+    { // Deadpool's Secret Secret Wars
+        "name": "Deadpool's Secret Secret Wars",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // Guardians of Knowhere
+        "name": "Guardians of Knowhere",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // K'un-Lun
+        "name": "K'un-Lun",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // Monster Metropolis
+        "name": "Monster Metropolis",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // Utopolis
+        "name": "Utopolis",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // X-Men '92
+        "name": "X-Men '92",
+        "edition": "Secret Wars Volume 2"
+    },
+    { // Wasteland
+        "name": "Wasteland",
+        "edition": "Secret Wars Volume 1",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Instinct",
+				"amount":  1
+			}
+		]
+    },
+    { // Subterranea
+        "name": "Subterranea",
+        "edition": "Fantastic 4"
+    },
+    { // Murderworld
+        "name": "Murderworld",
+        "edition": "X-Men"
+    },
+    { // Shadow-X
+        "name": "Shadow-X",
+        "edition": "X-Men",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "X-Men",
+				"amount":  1
+			}
+		]
+    },
+    { // Mojoverse
+        "name": "Mojoverse",
+        "edition": "X-Men",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Covert",
+				"amount":  1
+			}
+		]
+    },
+    { // Heralds of Galactus
+        "name": "Heralds of Galactus",
+        "edition": "Fantastic 4"
+    },
+    { // Sisterhood of Mutants
+        "name": "Sisterhood of Mutants",
+        "edition": "X-Men",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Instinct",
+				"amount":  1
+			}
+		]
+    },
+    { // Hellfire Club
+        "name": "Hellfire Club",
+        "edition": "X-Men",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "X-Men",
+				"amount":  1
+			}
+		]
+    },
+    { // Dark Descendants
+        "name": "Dark Descendants",
+        "edition": "X-Men"
+    },
+    { // Shi'ar Imperial Guard
+        "name": "Shi'ar Imperial Guard",
+        "edition": "X-Men",
+        "rules": [
+            {
+				"deck": "Hero",
+				"type": "TeamRule",
+				"name": "X-Men",
+				"amount":  1
+			},
+			{
+				"deck": "Hero",
+				"type": "ClassRule",
+				"name": "Strength",
+				"amount":  1
+			}
+		]
+    }
+]

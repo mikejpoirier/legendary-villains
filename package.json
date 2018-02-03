@@ -1,0 +1,10 @@
+{
+    "name": "villain",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+      "start": "cd Villain && dotnet run",
+      "push": "cd Villain && dotnet publish && cf push",
+      "test": "cd Villain.Tests.Unit && dotnet test && cd ..\\Villain.Tests.Integration && dotnet test"
+    }
+}
